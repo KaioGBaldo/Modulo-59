@@ -1,0 +1,1 @@
+Neste exercício foi criada uma view simples no Django utilizando function-based view. A view retorna uma mensagem de texto e foi configurada corretamente no arquivo urls.py, sendo acessível pelo navegador.
